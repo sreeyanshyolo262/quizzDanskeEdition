@@ -1,4 +1,4 @@
-# 🧩 Sumana's Quiz - Multiplayer Web App (Scribbl.io Style)
+# 🧩Quiz Web App 
 
 A real-time multiplayer visual quiz game inspired by Scribbl.io! Host uploads images as questions, and players guess continuously in a shared chat until they get it right.
 
