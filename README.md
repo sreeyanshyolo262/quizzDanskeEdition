@@ -1,4 +1,6 @@
-# 🧩Quiz Web App 
+# 🧩Free Kahoot/Scrible.io alternative
+
+My mom neede to host a kahoot game for her collegues as a team building activity but didnt have a premium account so i made this
 
 A real-time multiplayer visual quiz game inspired by Scribbl.io! Host uploads images as questions, and players guess continuously in a shared chat until they get it right.
 
