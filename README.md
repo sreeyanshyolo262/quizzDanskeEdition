@@ -2,10 +2,16 @@
 
 My mom neede to host a kahoot game for her collegues as a team building activity but didnt have a premium account so i made this
 
+
 A real-time multiplayer visual quiz game inspired by Scribbl.io! Host uploads images as questions, and players guess continuously in a shared chat until they get it right.
 
 ## 🎯 Overview
 <img width="1603" height="997" alt="Screenshot 2025-07-14 121132" src="https://github.com/user-attachments/assets/1f41aaf2-3722-4b68-aeee-d0c55da9a85a" />
+
+<img width="1897" height="1060" alt="Screenshot 2025-07-14 121945" src="https://github.com/user-attachments/assets/11b313ce-9b85-49a2-a121-195df36e9f43" />
+
+
+
 
 This web application brings the excitement of Scribbl.io-style guessing games to your browser. Hosts can upload images or create emoji puzzles, while players join using unique codes and guess continuously in a shared public chat. Points are awarded based on accuracy and speed - first to guess correctly gets the most points!
 
