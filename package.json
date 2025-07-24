@@ -1,7 +1,7 @@
 {
-  "name": "sumanas-quiz",
+  "name": "ccf-quiz",
   "version": "1.0.0",
-  "description": "🧩 Sumana's Quiz - Real-time multiplayer emoji quiz game for office teams and friends",
+  "description": "🧩 CCF Quiz - Real-time multiplayer emoji quiz game for office teams and friends",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

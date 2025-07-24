@@ -1,6 +1,6 @@
 <!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
 
-# Sumana's Quiz Multiplayer Web App - Copilot Instructions
+# CCF Quiz Multiplayer Web App - Copilot Instructions
 
 This is a real-time multiplayer emoji quiz game built with Node.js, Express, Socket.io, and vanilla JavaScript.
 

@@ -502,7 +502,7 @@ process.on('SIGTERM', () => {
 });
 
 server.listen(PORT, () => {
-    console.log(`🧩 Sumana's Quiz Server running on port ${PORT}`);
+    console.log(`🧩 CCF Quiz Server running on port ${PORT}`);
     console.log(`Open http://localhost:${PORT} to start playing!`);
 }).on('error', (err) => {
     if (err.code === 'EADDRINUSE') {

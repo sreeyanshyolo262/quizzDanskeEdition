@@ -1,4 +1,4 @@
-# 🚀 Deployment Guide for Sumana's Quiz
+# 🚀 Deployment Guide for CCF Quiz
 
 This guide covers multiple ways to deploy your real-time multiplayer quiz app to the internet.
 
@@ -39,9 +39,9 @@ Thumbs.db
    ```bash
    git init
    git add .
-   git commit -m "Initial commit: Sumana's Quiz App"
+   git commit -m "Initial commit: CCF Quiz App"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/sumanas-quiz.git
+   git remote add origin https://github.com/YOUR_USERNAME/ccf-quiz.git
    git push -u origin main
    ```
 
@@ -51,14 +51,14 @@ Thumbs.db
    - Click "New" → "Web Service"
    - Connect your GitHub repository
    - Configure:
-     - **Name**: `sumanas-quiz`
+     - **Name**: `ccf-quiz`
      - **Environment**: `Node`
      - **Build Command**: `npm install`
      - **Start Command**: `npm start`
      - **Plan**: Free
    - Click "Create Web Service"
 
-3. **Your app will be live at**: `https://sumanas-quiz-XXXX.onrender.com`
+3. **Your app will be live at**: `https://ccf-quiz-XXXX.onrender.com`
 
 ---
 
@@ -88,7 +88,7 @@ web: node server.js
 
 3. Deploy:
 ```bash
-heroku create sumanas-quiz-app
+heroku create ccf-quiz-app
 git push heroku main
 ```
 
@@ -201,9 +201,9 @@ npm install helmet
 Once deployed, you can:
 - Share the live URL with friends and colleagues
 - Test multiplayer functionality from different devices
-- Show off Sumana's Quiz to the world!
+- Show off CCF Quiz to the world!
 
-**Example live URL**: `https://sumanas-quiz-abc123.onrender.com`
+**Example live URL**: `https://ccf-quiz-abc123.onrender.com`
 
 ---
 

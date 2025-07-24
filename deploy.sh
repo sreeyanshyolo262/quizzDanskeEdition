@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 Preparing Sumana's Quiz for deployment..."
+echo "🚀 Preparing CCF Quiz for deployment..."
 
 # Check if git is initialized
 if [ ! -d ".git" ]; then
@@ -15,7 +15,7 @@ git add .
 
 # Commit changes
 echo "💾 Committing changes..."
-git commit -m "Deploy: Sumana's Quiz - $(date)"
+git commit -m "Deploy: CCF Quiz - $(date)"
 
 echo "✅ Ready for deployment!"
 echo ""
